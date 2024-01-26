@@ -568,8 +568,8 @@
           s = t.meta_title
             ? t.meta_title
             : t.title
-            ? "Apt 24® | ".concat(t.title)
-            : "Apt 24® Mobility";
+            ? "B&B Group® | ".concat(t.title)
+            : "B&B Group® Mobility";
         return (0, r.jsxs)(n(), {
           children: [
             (0, r.jsx)("title", { children: s }),
